@@ -1,0 +1,17 @@
+body {
+    background-color: burlywood;
+}
+
+.changable {
+    background-color: rgb(255, 255, 55) !important;
+
+}
+
+.protagonist {
+    background-color: blue;
+}
+
+.antagonist {
+    background-color: darkred;
+    color: aqua;
+}
